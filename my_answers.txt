@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add some data here
+=======
+Add a few lines to this file
+>>>>>>> 0fa84e330dfb9271acd7ce3780bb9e0b74888243
