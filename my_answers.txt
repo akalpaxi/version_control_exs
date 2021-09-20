@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add some data here
+=======
+This is a change in the my answers.txt file
+>>>>>>> af922422628b538fc5c075d0c107540e32c11be0
